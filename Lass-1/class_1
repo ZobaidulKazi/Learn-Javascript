@@ -1,0 +1,77 @@
+var fName = 'Md Zobaidul'
+var lName = 'Islam kazi'
+var city = 'Dhaka,Bangladesh'
+var old = 21
+var las = 'Javascript,php'
+
+
+console.log(fName + lName + 'Is vary good Boy')
+//console.log('Md Zobaidul Islam Kazi')
+console.log('My live in ' + city)
+console.log('My Old is ' + old)
+console.log( las + ' my faest Programinge Langueis')
+
+
+var oddNumber = 357
+var oddNumber2 = 246810
+
+console.log(oddNumber + oddNumber2)
+
+var myFrendName = "Md Abdull Mozid"
+var old = 19
+var address = "Mymensingh"
+var collrssname = "Mymensingh Polytechnic Institute"
+
+console.log('My new frend is ' + myFrendName)
+console.log('tarr old hossa ' + old)
+console.log('tar barry haoosa ' + address)
+console.log('tar lakapora hossa ' +collrssname)
+
+var myBroName = ''
+var myBroOld = ''
+var myBro = ''
+ 
+myBroName = "Md Meydul Islam"
+myBroOld = "32"
+myBro = "Good Boy"
+ 
+console.log(myBroName + "he is a men" + "he Is good men" + "he is myFrendName")
+console.log(myBroOld)
+console.log(myBro) 
+
+
+var myfatherName = "Md Motuir Rahomn"
+var old = 34
+var city = "Bangladesh"
+var marid = true
+var pareands = "one parsone has dade and one parsone jannenda"
+
+console.log('My Father Name Is : ' + myfatherName)
+console.log('He Is ' + old + " " + 'Year Old')
+console.log('She Live In ' + city)
+console.log('She is marid ? ' + marid)
+console.log('har Father and Mother is Dddd?? ' + pareands)
+
+
+console.log()
+
+var myFabaritNumber = 99
+var myCollessRoll = 472146
+var mycollessRegNumber = 18701023
+var myCollessName = 'Mymensingh Polytechnic Institute'
+
+console.log('Good lock your lacky number ' + myFabaritNumber)
+console.log('Your Colless Roll No Is ' + myCollessRoll)
+console.log('Your Colless Regastaion Number Is ' + mycollessRegNumber)
+console.log('^^^ Your Colless Name Is ' + myCollessName)
+
+
+
+var a = 'hello';
+var a = 'hello';
+
+console.log("a long time in this")
+
+
+
+
